@@ -1,8 +1,9 @@
 ---
-title: "A website that doesn't exit"
+title: "Umleitung"
 layout: redirect
 sitemap: false
-permalink: /redirect-page/
-redirect_to:  "http://phlow.github.io/feeling-responsive/info/"
+permalink: /13.html/
+redirect_to:  /angebote/venedig-2017/
 ---
-This is just a page to demonstrate the `redirect`-layout, programmend by [Kanishk](http://codingtips.kanishkkunal.in/about/).
+Der Link, den Sie eingegeben haben, existiert nicht mehr. Wahrscheinlich liegt das an unserer neuen Homepage.
+Vielleicht suchen Sie nach unserer Venedig-Reise 2017?

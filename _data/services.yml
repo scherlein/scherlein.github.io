@@ -1,17 +1,17 @@
-- menu_name: "Services"
+- menu_name: "Kleingedrucktes"
 
-- name: "Contact"
-  url: "/contact/"
-  title: "Contact"
+- name: "Kontakt"
+  url: "/kontakt/"
+  title: "Kontakt"
 
-- name: "RSS"
-  url: "/feed.xml"
-  title: "Subscribe to RSS Feed"
+- name: "Vertragsbedingungen"
+  url: "/vertragsbedingungen/"
+  title: "Vertragsbedingungen"
 
-- name: "Atom"
-  url: "/atom.xml"
-  title: "Subscribe to Atom Feed"
-
-- name: "sitemap.xml"
+- name: "Sitemap"
   url: "/sitemap.xml"
   title: "Sitemap for Google Webmaster Tools"
+
+- name: "Impressum"
+  url: "/impressum/"
+  title: "Impressum"
