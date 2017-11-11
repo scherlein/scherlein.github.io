@@ -22,14 +22,10 @@
   url: "/angebote/"
   side: left
   dropdown:
-  - title: "Elba 2017"
-    url: "/angebote/elba-2017"
-  - title: "Caminho Portuguès 2017"
-    url: "/angebote/caminho-portugues-2017/"
-  - title: "Opatija 2017"
-    url: "/angebote/opatija-2017/"
   - title: "Venedig 2018"
     url: "/angebote/venedig-2018/"
+  - title: "Caminho Portuguès 2018"
+    url: "/angebote/caminho-portugues-2018/"
 
 - title: Impressionen
   url: "/impressionen/"
