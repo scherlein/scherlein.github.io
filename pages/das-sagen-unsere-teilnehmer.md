@@ -8,6 +8,38 @@ header:
     image_fullwidth: "scherleinopatija4.jpg"
 ---
 
+> ...ganz herzlichen Dank für die schöne Urkunde und auch die beiden Bilder. Auch wenn die letzte Woche schon wieder voll war und der Alltag mich gleich eingeholt hat, gibt es doch immer wieder schöne Bilder und Erinnerungen von der Reise. Danke noch mal für alles, was Ihr uns an Schönem geboten habt!
+
+Gerlinde aus Mainz zum Caminho Portuguès 2017
+<br><br><br>
+
+> Vielen Dank für die wunderschönen Tage, die wir mit Euch und der Reisegruppe verbringen durften.
+Auf dem Weg von Lissabon über Porto bis nach Santiago konnten wir Land und Leute kennenlernen.
+Die Reise war sehr gut organisiert und vorbereitet. Unterkunft und Verpflegung war ausgezeichnet.
+Besonders gut hat uns der 2-tägige Aufenthalt in Tomar gefallen mit dem Abendessen auf der Strasse vor dem Restaurant.
+Höhepunkt war natürlich auch für uns der Weg des Camino Portuguès an der Atlantikküste entlang.
+
+Angela & Franz zum Caminho Portuguès 2017
+<br><br><br>
+
+> Liebe Rosi,  
+gern schreibe ich Dir jetzt ein paar Zeilen zum Pilgern in Portugal:  
+Das war eine schöne, kontrastreiche Erfahrung vom 1.-10. September 2017...  
+Radio Jakobi am frühen Morgen im Bus...  
+das Morgenlicht begrüßen mit erhebenden Gesängen in großen Kathedralen und kleinen Kirche...  
+und die Kreistänze davor oder danach...  
+Wandern durch heiße dunkle Altstädte...oder im Wind des hellen Atlantik...  
+oder durch Felder und Wälder streifen, vorbei an reifen Tomaten, Walnüssen, Feigen und Trauben...  
+anregende Gespräche mit angenehmen Menschen, zu zweit oder in kleinen Gruppen, auf fränkisch, bayerisch oder
+gar schwäbisch...  
+und schließlich am Abend das Essen an langen Tischen, das einfache Menü, die portugiesische Gemüsesuppe,
+die Unterhaltung oft zum herzhaften Lachen...  
+Zum krönenden Abschluss dann Santiago und das Eintauchen in die Geschichte und Spiritualität des Pilgerlebens...  
+Gudrun, „das Truthuhn“, war gerne dabei
+
+Gudrun zum Caminho Portuguès 2017
+<br><br><br>
+
 > Habt ihr´s gemerkt? Ich hab viel an euch gedacht. Die Tanzmusik klingt noch in mir und begleitet mich durch die Tage - manchmal höre ich kroatische Frauen singen und das Knirschen der Steine unter unseren Füßen, wenn wir unter dem Baum in die Stille tanzen - der "Wolf" tanzt in mir und manchmal lasse ich ihn raus und tanze ein bisschen in der Küche herum - der kann mich gut durch den grauen November bringen, den werde ich mir ab und zu mal herbeirufen!  
 Danke für alles, herzliche Grüße an die zweite Tanzgruppe
 
