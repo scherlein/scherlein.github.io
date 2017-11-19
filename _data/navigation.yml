@@ -1,15 +1,13 @@
 - title: Start
   url: "/"
   side: left
-
-- title: "Singen, Pilgern und mehr..."
-  url: "/singen-pilgern-und-mehr/"
-  side: left
   dropdown:
-  - title: "Unsere Vision"
-    url: "/unsere-vision/"
-  - title: "Das sagen unsere Teilnehmer"
-    url: "/das-sagen-unsere-teilnehmer/"
+    - title: "Singen, Pilgern und mehr..."
+      url: "/singen-pilgern-und-mehr/"
+    - title: "Unsere Vision"
+      url: "/unsere-vision/"
+    - title: "Das sagen unsere Teilnehmer"
+      url: "/das-sagen-unsere-teilnehmer/"
 
 - title: Über uns
   url: "/ueber-uns/"

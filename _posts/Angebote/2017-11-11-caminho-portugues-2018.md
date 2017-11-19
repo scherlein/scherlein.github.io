@@ -3,9 +3,9 @@ layout: page
 #
 # Content
 #
-subheadline: "Singend und pilgernd von Lissabon nach Santiago de Compostela vom 6. bis 15. Juli 2017"
+subheadline: "Singend und pilgernd von Lissabon nach Santiago de Compostela vom 6. bis 15. Juli 2018"
 title: "Caminho Portuguès 2017"
-teaser: "Der geheimnisvolle, bei uns noch weitgehend unbekannte historische Jakobsweg durch Portugal nach Santiago. Eine 10-tägige Pilger- und Studienreise mit Wanderabschnitten und der einmaligen Erfahrung des Singens gregorianischer und mittelalterlicher Gesänge in alten Kirchen."
+teaser: "Den geheimnisvollen, historischen, bei uns noch weitgehend unbekannte historische Jakobsweg durch Portugal und Galizien gehen: Zehntägige Pilger- und Studienreise in der genialen Kombination von Wandern und Singen gregorianischer und mittelalterlicher Gesänge in alten Kirchen."
 categories:
   - angebote
 category:
@@ -37,8 +37,8 @@ Stationen des Weges, der vielfältiger nicht sein könnte:
 
 **Porto**, die pulsierende, lebendige Hafenstadt,  
 der **Weg am Atlantik** entlang,  
-![Pilgerweg entlang des Atlantiks](/images/PortugalWegAmAtlantik_schmal.JPG)
-*Pilgerweg entlang des Atlantiks*
+![Ein Highlight werden u.a. die zwei Tage entlang der Strände des Atlantiks sein](/images/PortugalWegAmAtlantik_schmal.JPG)
+*Ein Highlight werden u.a. die zwei Tage entlang der Strände des Atlantiks sein*
 
 **Padron**, wo einst der Legende nach der Leib des Hl. Apostels Jakobus in einem Boot gestrandet sein soll
 und schließlich  
