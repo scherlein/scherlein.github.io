@@ -20,10 +20,10 @@ tags:
 # Styling
 #
 header:
-  image_fullwidth: portugal_header.jpg
+  image_fullwidth: portugal_strand_header.jpg
 image:
-    thumb: portugal_thumb.jpg
-    homepage: portugal-home.jpg
+    thumb: portugal_strand_thumb.jpg
+    homepage: portugal_strand_home.jpg
     caption: Tanzen am Atlantik 
 ---
 
