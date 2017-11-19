@@ -44,33 +44,30 @@ der **Weg am Atlantik** entlang,
 und schließlich  
 **Santiago de Compostela** in Galizien, nach Rom der bedeutendste Wallfahrtsort in Europa, unser Ziel und das von unzähligen Pilgern vor und mit uns.
 
-Dies sind nur einige wenige Highlights aus einem bunten Strauß von Schmankerln dieser besonderen Pilger und Studienreise.
+Dies sind nur einige wenige Highlights dieser besonderen Pilger und Studienreise.
 
-Dazwischen werden wir in eingestreuten **Führungen** und Erklärungen neben dem **Singen** selbst auch viel über die eineinhalbtausendjährige spannende Entwicklung des **gregorianischen Gesangs**, der gerade eine Renaissance erfährt, hören und dem **Geheimnis des Jakobsweges** nachspüren. Was ist es, was uns und andere Menschen an diesem bedeutendsten Weg der europäischen Christenheit so fasziniert?
-
-Eine seit langem in Deutschland lebende und perfekt deutsch sprechende Portugiesin wird uns begleiten und uns die **Geschichte, die Gegenwart und die Menschen Portugals** näher bringen.
+Dazwischen werden wir in **Führungen** und Erklärungen viel Interessantes zu **Land und Leute**, zur **Gregorianik** und zum **Geheimnis des Jakobsweges** erfahren. Was ist es, was uns und andere Menschen an diesem bedeutendsten Weg der europäischen Christenheit so fasziniert?
 
 Vorkenntnisse sind für das Singen nicht erforderlich.
 
 Die Reise wird eine spannende Mischung werden:
 
-Am Abend des ersten Tages in **Lissabon** angekommen, treffen wir uns um ca. 19.00 Uhr zum Kennenlernen und zur Einführung in unserem Hotel. Anschließend besteht die Möglichkeit, ins Altstadtviertel Alfama, dort wo noch der traditionelle Fado gesungen wird, zum Abendessen zu gehen.
+Am Abend des ersten Tages treffen wir uns um 17.00 Uhr in unserem Hotel im Zentrum von **Lissabon**. Gemeinsam gehen wir zur **Kathedrale Sè de Lisboa**, dem Startpunkt unseres Pilgerweges.
+Wir folgen den gelben Pfeilen durch die malerische Altstadt Alfama und kehren zum Abendessen in einem typischen Lokal ein.
 
-Am nächsten Morgen treffen wir uns an unserem Startpunkt in der **Kathedrale Sè de Lisboa** zur ersten **Klangsuche mit Reisesegen**.
-
-Anschließend werden wir einige Kilometer durch die Stadt nach Norden entlang des hier sehr breiten **Rio Tejo** zum Museu Nacional do Azulejo, dem **Nationalmuseum der traditionellen blauen Kacheln** wandern.
-
-Dann wird es ein Stück mit dem Bus Richtung Santarem gehen, wo wir die **mit Reben bestückte Tiefebene des Tejo** auf Schusters Rappen erleben.
+Am nächsten Morgen bringt uns der Bus nach **Santarem**. Von dort aus geht es durch die mit Reben bestückte Tiefebene des **Tejo** nach Vale de Figueira.
 
 ![Der Pilgerweg führt uns durch tausendjährige Olivenhaine](/images/scherleinport2-schmal.JPG)
 *Der Pilgerweg führt uns durch tausendjährige Olivenhaine*
 
-So werden wir auch in den kommenden Tagen jeweils ca. 3-4 Stunden **durch die vielfältigen Landschaften Portugals und Galiziens wandern**, **in alten Kirchen gregorianische und mittelalterliche Lieder** singen ...
+Tagesziel ist dann **Tomar**, einer der schönsten Orte Portugals. Über der Stadt thront die Kirchenfestung „Convento do Cristo“, Hauptsitz der geheimnisumwitterten Tempelritter, zu der wir am dritten Tag hochsteigen.
+
+Auch in den kommenden Tagen geht es jeweils zu Fuß ca. 3-4 Stunden durch die vielfältigen Landschaften Portugals und Galiziens. In alten Kirchen verweilen wir und singen gregorianische und mittelalterliche Lieder.
 
 ![Kapelle am Meer](/images/PortugalKapelleAmMeer_schmal.JPG)
 *Kapelle am Meer*
 
-... und immer wieder kleinere oder größere Strecken mit unserem Bus zurück legen, bis wir am Ende **in Santiago de Compostela ankommen**.
+Immer wieder legen wir kleinere oder größere Strecken mit unserem Bus zurück, bis wir am Ende in Santiago de Compostela ankommen.
 
 ![Santiago de Compostela](/images/scherleinport16.JPG)
 *Santiago de Compostela*
@@ -84,7 +81,10 @@ Die Kursgebühr beträgt inkl. Führungen, Erklärungen, Liedmappe, deutsche Rei
 
 An- und Abreise erfolgen individuell, sodass die Möglichkeit besteht, bereits einige Tage vorher anzureisen oder ein paar Tage anzuhängen. Erfahrungsgemäß findet man bei früzeitiger Buchung günstige Flüge.
 
-Mindestteilnehmerzahl 20. Bis 30. April muss die Mindestteilnehmerzahl erreicht sein, ansonsten kann die Reise nicht stattfinden. Spätere Anmeldungen auf Anfrage und gegen Aufpreis.  
+**Die Kursgebühr** beträgt inkl. Pilgerleitung, Führungen, Erklärungen, Liedmappe, deutscher Reise- und Chorleitung, Transfers im Bus während der Reise (nicht vom und zum Flughafen) **990,00 Euro** pro Person im Doppel- zimmer (Einzelzimmerzuschlag 270,00 Euro), 9 Übernachtungen in von uns ausgesuchten, guten Hotels, von 4-Sterne-Hotels bis zu einem renommierten Pilgerhaus, teilweise mit Schwimmbad, incl. Frühstück und Abend- essen in typischen Gasthäusern.  
+
+Bis 25. Februar 2018 muss die Mindestteilnehmerzahl von 20 Personen erreicht sein, ansonsten kann die Reise nicht stattfinden. Spätere Anmeldungen auf Anfrage. **Frühbucherpreis** bei Anmeldung und Anzahlung bis 31. Dez. 2017 950,00 Euro.  
+
 Reise- und Chorleitung: Rosalie Scherlein
 
 [Hier gelangen Sie zum Anmeldeformular.](/anmeldung/)
