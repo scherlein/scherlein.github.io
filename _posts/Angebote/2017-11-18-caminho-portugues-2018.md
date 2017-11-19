@@ -4,7 +4,7 @@ layout: page
 # Content
 #
 subheadline: "Singend und pilgernd von Lissabon nach Santiago de Compostela vom 6. bis 15. Juli 2018"
-title: "Caminho Portuguès 2017"
+title: "Caminho Portuguès 2018"
 teaser: "Den geheimnisvollen, historischen, bei uns noch weitgehend unbekannte historische Jakobsweg durch Portugal und Galizien gehen: Zehntägige Pilger- und Studienreise in der genialen Kombination von Wandern und Singen gregorianischer und mittelalterlicher Gesänge in alten Kirchen."
 categories:
   - angebote
@@ -19,12 +19,12 @@ tags:
 #
 # Styling
 #
-header: no
+header:
+  image_fullwidth: portugal_header.jpg
 image:
-    title: ScherleinPortugal1.jpg
-    thumb: ScherleinPortugal1-thumb.jpg
-    homepage: ScherleinPortugal1-home.jpg
-    caption: 
+    thumb: portugal_thumb.jpg
+    homepage: portugal-home.jpg
+    caption: Tanzen am Atlantik 
 ---
 
 Stationen des Weges, der vielfältiger nicht sein könnte:  
@@ -77,11 +77,12 @@ Wir werden uns in die Schlange der Wartenden einreihen und endlich die Statue de
 Die TeilnehmerInnen erhalten rechtzeitig vor der Reise das genaue Programm.
 Programmänderungen vorbehalten
 
-Die Kursgebühr beträgt inkl. Führungen, Erklärungen, Liedmappe, deutsche Reise- und Chorleitung, Transfers im Bus während der Reise (nicht vom und zum Flughafen) 990,00 Euro pro Person im Doppelzimmer (Einzelzimmerzuschlag 250,00 Euro), 9 Übernachtungen mit Frühstück (teilweise mit Abendessen) in von uns ausgesuchten Hotels.
+An- und Abreise erfolgen individuell, sodass die Möglichkeit besteht, bereits einige Tage vorher anzureisen oder ein paar Tage anzuhängen. Erfahrungsgemäß findet man bei früzeitiger Buchung günstige Flüge.  
 
-An- und Abreise erfolgen individuell, sodass die Möglichkeit besteht, bereits einige Tage vorher anzureisen oder ein paar Tage anzuhängen. Erfahrungsgemäß findet man bei früzeitiger Buchung günstige Flüge.
+**Die Kursgebühr** beträgt inkl. Pilgerleitung, Führungen, Erklärungen, Liedmappe, deutscher Reise- und Chorleitung, Transfers im Bus während der Reise (nicht vom und zum Flughafen) **990,00 Euro** pro Person im Doppelzimmer (Einzelzimmerzuschlag 270,00 Euro), 9 Übernachtungen in von uns ausgesuchten, guten Hotels, von 4-Sterne-Hotels bis zu einem renommierten Pilgerhaus, teilweise mit Schwimmbad, incl. Frühstück und Abendessen in typischen Gasthäusern.  
 
-**Die Kursgebühr** beträgt inkl. Pilgerleitung, Führungen, Erklärungen, Liedmappe, deutscher Reise- und Chorleitung, Transfers im Bus während der Reise (nicht vom und zum Flughafen) **990,00 Euro** pro Person im Doppel- zimmer (Einzelzimmerzuschlag 270,00 Euro), 9 Übernachtungen in von uns ausgesuchten, guten Hotels, von 4-Sterne-Hotels bis zu einem renommierten Pilgerhaus, teilweise mit Schwimmbad, incl. Frühstück und Abend- essen in typischen Gasthäusern.  
+![Gemeinsames Essen](/images/portugal_gemeinsames_essen.jpg)
+*gemeinsames Essen*
 
 Bis 25. Februar 2018 muss die Mindestteilnehmerzahl von 20 Personen erreicht sein, ansonsten kann die Reise nicht stattfinden. Spätere Anmeldungen auf Anfrage. **Frühbucherpreis** bei Anmeldung und Anzahlung bis 31. Dez. 2017 950,00 Euro.  
 
