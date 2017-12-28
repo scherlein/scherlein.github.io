@@ -22,6 +22,8 @@
   dropdown:
   - title: "Venedig 2018"
     url: "/angebote/venedig-2018/"
+  - title: "Elba 2018"
+    url: "/angebote/elba-2018/"
   - title: "Caminho Portuguès 2018"
     url: "/angebote/caminho-portugues-2018/"
   - title: "Opatija 2018"
