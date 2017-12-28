@@ -33,7 +33,7 @@ Stationen des Weges, der vielfältiger nicht sein könnte:
 **Tomar**, ehemals Mittelpunkt des mächtigen Tempelritterordens,  
 
 ![Die beeindruckende Kirchenfestung „Convento do Re“ der geheimnisumwitterten Tempelritter in Tomar](/images/scherleinport6_schmal.JPG)
-*Die beeindruckende Kirchenfestung „Convento do Re“ der geheimnisumwitterten Tempelritter in Tomar*
+*Die beeindruckende Kirchenfestung „Convento do Cristo“ der geheimnisumwitterten Tempelritter in Tomar*
 
 **Porto**, die pulsierende, lebendige Hafenstadt,  
 der **Weg am Atlantik** entlang,  
