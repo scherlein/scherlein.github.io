@@ -84,7 +84,7 @@ An- und Abreise erfolgen individuell, sodass die Möglichkeit besteht, bereits e
 ![Gemeinsames Essen](/images/portugal_gemeinsames_essen.jpg)
 *gemeinsames Essen*
 
-Bis 25. Februar 2018 muss die Mindestteilnehmerzahl von 20 Personen erreicht sein, ansonsten kann die Reise nicht stattfinden. Spätere Anmeldungen auf Anfrage. **Frühbucherpreis** bei Anmeldung und Anzahlung bis 31. Dez. 2017 950,00 Euro.  
+Bis 25. Februar 2018 muss die Mindestteilnehmerzahl von 20 Personen erreicht sein, ansonsten kann die Reise nicht stattfinden. Spätere Anmeldungen auf Anfrage. **Frühbucherpreis** bei Anmeldung und Anzahlung bis 15. Feb. 2017 950,00 Euro.  
 
 Reise- und Chorleitung: Rosalie Scherlein
 
