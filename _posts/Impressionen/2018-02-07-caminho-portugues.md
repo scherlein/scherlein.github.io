@@ -27,7 +27,7 @@ image:
     homepage: portugal_strand_home.jpg
     caption: Tanzen am Atlantik 
 gallery:
-    - image_url: scherleinelba11.JPG
+    - image_url: caminho1.JPG
 
 ---
 
