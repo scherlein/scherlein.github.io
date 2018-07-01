@@ -28,6 +28,8 @@ image:
     caption: Tanzen am Atlantik 
 gallery:
     - image_url: caminho1.JPG
+    - image_url: caminho2.JPG
+    - image_url: caminho3.JPG
 
 ---
 
