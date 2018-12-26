@@ -20,10 +20,12 @@
   url: "/angebote/"
   side: left
   dropdown:
-  - title: "Elba 2019"
-    url: "/angebote/elba-2019/"
   - title: "Venedig 2019"
     url: "/angebote/venedig-2019/"
+  - title: "Elba 2019"
+    url: "/angebote/elba-2019/"
+  - title: "Ligurien 2019"
+    url: "/angebote/ligurien-2019/"
   - title: "Opatija 2019"
     url: "/angebote/opatija-2019/"
 
