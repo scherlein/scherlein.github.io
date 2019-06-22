@@ -7,6 +7,15 @@ permalink: "/das-sagen-unsere-teilnehmer/"
 header:
     image_fullwidth: "scherleinopatija4.jpg"
 ---
+> Danke für die wunderbaren gemeinsamen Tage in Venedig. Für mich sind es immer Tage, um Kraft zu tanken und den Alltag hinter sich zu lassen. Freue mich schon aufs Wiedersehen!
+
+Petra aus M.
+<br><br><br>
+
+> Ich danke euch nochmal von ganzem Herzen für die allumfassende, liebevolle und intensive Begleitung und die Erklärungen. Elba war für mich ein ganz besonders schöner und einzigartiger Urlaub. Ihr seid das tollste sich ergänzende Team, das ich kenne.
+
+Margareta aus K.
+<br><br><br>
 
 > ...ganz herzlichen Dank für die schöne Urkunde und auch die beiden Bilder. Auch wenn die letzte Woche schon wieder voll war und der Alltag mich gleich eingeholt hat, gibt es doch immer wieder schöne Bilder und Erinnerungen von der Reise. Danke noch mal für alles, was Ihr uns an Schönem geboten habt!
 
