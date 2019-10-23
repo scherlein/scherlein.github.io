@@ -23,7 +23,7 @@ Heidi aus Isny
 <br><br><br>
 
 > Es war eine wunderschöne außergewöhnliche Seelenreise. Immer noch hole ich mir das tanzende Gefühl am Meer her.  
-Die traumhafte Atmosphäre und die wunderbare Gruppe hat auch mit den Gesängen die Seele erblühen lassen. Mit QiGong beginnen wir jetzt unseren Tag. Vielen Dank für Eure gut durchdachte achtsame Gestaltung der Reise. Wir sind gerne wieder dabei.
+Die traumhafte Atmosphäre und die wunderbare Gruppe hat auch mit den Gesängen die Seele erblühen lassen. Mit Qi Gong beginnen wir jetzt unseren Tag. Vielen Dank für Eure gut durchdachte achtsame Gestaltung der Reise. Wir sind gerne wieder dabei.
 
 Liz und Gerd
 <br><br><br>
@@ -97,7 +97,7 @@ Karin F. aus Schwaig
 <br><br><br>
 
 > Ich durfte einmal nach Venedig und einmal nach Opatia mit Canta Peregrina reisen. Beide Reisen habe ich in bester Erinnerung. Die Orte waren wunderbar und das Wetter hatte zusätzlich beide Male mitgespielt.   
-Das Programm war mit Tanz und Qigong zusätzlich heilsam.  
+Das Programm war mit Tanz und Qi Gong zusätzlich heilsam.  
 Freue mich auf die nächste Reise mit Canta Peregrina. Wann?
 
 Susanne R., Wien
