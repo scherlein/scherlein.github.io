@@ -7,6 +7,27 @@ permalink: "/das-sagen-unsere-teilnehmer/"
 header:
     image_fullwidth: "scherleinopatija4.jpg"
 ---
+> Meine Seele baumelt auch noch nach einer Woche zurück im Alltag! Ein traumhafter Urlaub mit Langzeitwirkung, entspannte und lustige Reiseleiter/innen, ausgesprochen unkomplizierte Miturlauber/innen, super Wetter, hervorragendes und reichliches Essen und trinken - was will Frau/Mann mehr? Vielen herzlichen Dank euch allen – es war eine wirklich erholsame Zeit – das spürt man erst richtig im Nachhinein.
+
+Birgitta aus dem Allgäu
+<br><br><br>
+
+> Ligurien: tanzen, singen, italienisch plaudern mit sehr netten Menschen in wundervoller Umgebung, vorzügliches Essen und traumhafte Meeresblicke. Ich bin bestimmt wieder dabei!
+
+Gitti aus Dingolfing
+<br><br><br>
+
+> Mir ging es in der Woche so richtig, richtig gut! Es war eine total schöne Gruppe, ein stimmiges Programm dank eurem Einsatz und eurer Mühe und ich kann nur danke sagen und hoffe, dass es ein nächstes Mal gibt! Immer wieder schwelge ich in Erinnerungen, wenn ich mir die Photos anschaue, das Meer, die Sonne, den Sonnenaufgang, den Vollmond, wie er sich im Meer spiegelt und die Gruppe beim Tanzen. Danke für die schöne Zeit, gerne wäre ich nächstes Mal wieder dabei, wenn ich gesund und fit bleibe.
+
+Heidi aus Isny
+<br><br><br>
+
+> Es war eine wunderschöne außergewöhnliche Seelenreise. Immer noch hole ich mir das tanzende Gefühl am Meer her.  
+Die traumhafte Atmosphäre und die wunderbare Gruppe hat auch mit den Gesängen die Seele erblühen lassen. Mit QiGong beginnen wir jetzt unseren Tag. Vielen Dank für Eure gut durchdachte achtsame Gestaltung der Reise. Wir sind gerne wieder dabei.
+
+Liz und Gerd
+<br><br><br>
+
 > Danke für die wunderbaren gemeinsamen Tage in Venedig. Für mich sind es immer Tage, um Kraft zu tanken und den Alltag hinter sich zu lassen. Freue mich schon aufs Wiedersehen!
 
 Petra aus M.
