@@ -18,3 +18,7 @@ header: no
 > Yoga tut jedem gut. Das ist meine Erfahrung in all den Jahren. Es geht mir um Achtsamkeit, Körperwahrnehmung, Kennenlernen der eigenen Möglichkeiten und Grenzen.
 
 **Christa Thoma**, Erzieherin, Heilpraktikerin, seit 20 Jahren Yogalehrerin. Sie ist Referentin für Yoga bei unseren Elba-Reisen.
+
+![Michaela Schillinger](/images/michaela_schillinger.jpg)
+
+**Michaela Schillinger**, Diplom-Psychologin und seit 20 Jahren Leiterin für Kreistanz.
