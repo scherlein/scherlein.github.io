@@ -8,6 +8,10 @@
   url: "/vertragsbedingungen/"
   title: "Vertragsbedingungen"
 
+- name: "Wichtige Informationen"
+  url: "/wichtige-informationen/"
+  title: "Wichtige Informationen"
+
 - name: "Sitemap"
   url: "/sitemap.xml"
   title: "Sitemap for Google Webmaster Tools"

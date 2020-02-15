@@ -20,14 +20,14 @@
   url: "/angebote/"
   side: left
   dropdown:
-  - title: "Venedig 2020"
-    url: "/angebote/venedig-2020/"
   - title: "Elba 2020"
     url: "/angebote/elba-2020/"
   - title: "Ligurien 2020"
     url: "/angebote/ligurien-2020/"
   - title: "Opatija 2020"
     url: "/angebote/opatija-2020/"
+  - title: "Venedig 2021"
+    url: "/angebote/venedig-2021/"
 
 - title: Impressionen
   url: "/impressionen/"
