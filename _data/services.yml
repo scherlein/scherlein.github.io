@@ -12,6 +12,10 @@
   url: "/wichtige-informationen/"
   title: "Wichtige Informationen"
 
+- name: "Datenschutz"
+  url: "/datenschutz/"
+  title: "Informationen zum Datenschutz"
+
 - name: "Sitemap"
   url: "/sitemap.xml"
   title: "Sitemap for Google Webmaster Tools"
