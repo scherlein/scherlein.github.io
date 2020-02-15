@@ -32,7 +32,7 @@ IBAN: DE45 7509 0300 0009 0632 85
 
 BIC: GENODEF 1M05
 
-Copyright der Texte: Canta Peregrina
+Copyright der Texte: Canta Peregrina  
 Copyright der Bilder: Canta Peregrina Archiv, G. Retzlaff (1), H. Engelhardt (1) 
 
 
