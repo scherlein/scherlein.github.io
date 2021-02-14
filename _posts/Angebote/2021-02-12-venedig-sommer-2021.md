@@ -4,7 +4,7 @@ layout: page
 # Content
 #
 subheadline: "Mensch, lebe! - Die Magie der Lagunenstadt. Meditatives Tanzen und geheimnisvolle Entdeckungstouren in Venedig vom 14.-18. August 2021"
-title: "Venedig 2021"
+title: "Venedig Sommer 2021"
 teaser: "Tanzen macht lebendig!
 Mit meditativen und beschwingten Kreistänzen spüren wir der Vielfalt des Lebens nach. Wir begegnen uns selbst, unserer Heiterkeit, Sehnsucht und Hoffnung im körperlichen Ausdruck der Bewegungen. In der Tanzgemeinschaft erfahren wir Lebensfreude und Inspiration, Leichtigkeit mischt sich mit Tiefgang."
 categories:

@@ -4,7 +4,7 @@ layout: page
 # Content
 #
 subheadline: "„Aufstehen und lebendig werden!“ - Meditatives Tanzen an der kroatischen Riviera in Opatija vom 23. bis 29.11.2021"
-title: "Opatija 2021"
+title: "Opatija Pfingsten 2021"
 teaser: "Natur und Spiritualität erleben - „Atemholen für Körper, Geist und Seele“
 „Atemholen für Körper, Geist und Seele“ - 5 Tage genießen!
 Opatija zu Pfingsten erleben! Bereits seit 2012 zieht es uns zum Tanzen dorthin. Warum? Sehen Sie selbst!"
