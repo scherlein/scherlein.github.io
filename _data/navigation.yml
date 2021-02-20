@@ -20,14 +20,14 @@
   url: "/angebote/"
   side: left
   dropdown:
-  - title: "Elba 2020"
-    url: "/angebote/elba-2020/"
   - title: "Opatija Pfingsten 2021"
     url: "/angebote/opatija-pfingsten-2021/"
   - title: "Venedig Sommer 2021"
     url: "/angebote/venedig-sommer-2021/"
   - title: "Ligurien 2021"
     url: "/angebote/ligurien-2021/"
+  - title: "Opatija Herbst 2021"
+    url: "/angebote/opatija-herbst-2021/"
 
 - title: Impressionen
   url: "/impressionen/"
